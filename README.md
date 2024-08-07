@@ -12,6 +12,14 @@ I would still like to do more with it at some point.
 Right now this is very simple -- it makes a simple "Wolfram style" 1D CA
 with Wolfram's numbering system.
 
+Adjusting the value of max_iterations will change the number of lines of output.
+There seems to be a small bug -- the number of lines will be one more than this
+value. This thing was just a quick hack to visualize CAs while I was reading
+Stephen Wolfram's book, A New Kind of Science. It works well enough for that,
+but there are surely other problems.
+https://www.wolframscience.com/nks/
+
+
 Usage example:
 
 chca 110
