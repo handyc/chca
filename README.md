@@ -1,7 +1,7 @@
 # chca
 CHCA simple cellular automaton program
 
-I made this years ago as a simple experiment on 1-D cellular automata,
+I made this years ago as a simple experiment on 1D cellular automata,
 
 then I got ambitious and wanted to add more dimensions, but somehow
 
