@@ -9,8 +9,20 @@ forgot about the project for years.
 
 I would still like to do more with it at some point.
 
-Right now this is very simple -- it makes a simple "Wolfram style" 1D CA
+If you find things in the code that seem unoptimized or clunky, that's
+because they are.
+
+If you think you have a better way of doing it,
+probably it's true.
+
+Right now this program is very simple -- it makes a simple "Wolfram style" 1D CA
 with Wolfram's numbering system.
+
+It is a hacker solution for displaying CA 0-255 easily, all of the possible
+CAs that exist in two dimensions using rulesets of 3 observed bits -> 1 output bit
+as in Wolfram's examples:
+
+https://plato.stanford.edu/entries/cellular-automata/supplement.html
 
 Adjusting the value of max_iterations will change the number of lines of output.
 There seems to be a small bug -- the number of lines will be one more than this
